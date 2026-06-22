@@ -41,7 +41,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="TUnit.Core" Version="1.56.18" />
+        <PackageReference Include="TUnit.Core" Version="1.56.25" />
         <PackageReference Include="Soenneker.Utils.Environment" Version="4.0.676" />
     </ItemGroup>
 </Project>
